@@ -5,8 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hello New, World!");
-            Console.WriteLine("Hello remote, World!");
+           
         }
     }
 }
